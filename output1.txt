@@ -1,0 +1,228 @@
+ 1 : Create a new Menu.
+ 2 : Store the Menu.
+ 3 : Print the Menu.
+ 4 : Load Menu from a file.
+ 5 : Get Price for certain Quantity of an item.
+ 6 : Update the Menu.
+ 7 : Exit.
+
+Enter your choice:1
+Creating a new Menu...........
+Enter length of the menu :18
+Item No. 1
+Enter the desciption:pizza
+Enter the category:Main course
+Enter the price:500
+Item No. 2
+Enter the desciption:grilled chicken
+Enter the category:Main course
+Enter the price:500
+Item No. 3
+Enter the desciption:dumplings
+Enter the category:Main course
+Enter the price:300
+Item No. 4
+Enter the desciption:hot dog
+Enter the category:main course
+Enter the price:200
+Item No. 5
+Enter the desciption:butter chicken
+Enter the category:main course
+Enter the price:400
+Item No. 6
+Enter the desciption:cheese burger
+Enter the category:main course
+Enter the price:500
+Item No. 7
+Enter the desciption:shrimp sandwhich
+Enter the category:main course
+Enter the price:250
+Item No. 8
+Enter the desciption:egg roll
+Enter the category:main course
+Enter the price:200
+Item No. 9
+Enter the desciption:fried rice
+Enter the category:main course
+Enter the price:400
+Item No. 10
+Enter the desciption:pepsi
+Enter the category:drink
+Enter the price:90
+Item No. 11
+Enter the desciption:fanta
+Enter the category:drink
+Enter the price:90
+Item No. 12
+Enter the desciption:cocacola
+Enter the category:drink
+Enter the price:90
+Item No. 13
+Enter the desciption:water
+Enter the category:drink
+Enter the price:50
+Item No. 14
+Enter the desciption:brownie
+Enter the category:dessert
+Enter the price:500
+Item No. 15
+Enter the desciption:ice cream
+Enter the category:dessert
+Enter the price:500
+Item No. 16
+Enter the desciption:toffee
+Enter the category:dessert
+Enter the price:250
+Item No. 17
+Enter the desciption:waffle
+Enter the category:dessert
+Enter the price:300
+Item No. 18
+Enter the desciption:banana bread
+Enter the category:dessert
+Enter the price:400
+Menu has been created!
+ 1 : Create a new Menu.
+ 2 : Store the Menu.
+ 3 : Print the Menu.
+ 4 : Load Menu from a file.
+ 5 : Get Price for certain Quantity of an item.
+ 6 : Update the Menu.
+ 7 : Exit.
+
+Enter your choice:2
+Storing the Menu.........
+Enter the name of menu file.(Spaces are not allowed.)  : menu
+Menu is stored.
+
+ 1 : Create a new Menu.
+ 2 : Store the Menu.
+ 3 : Print the Menu.
+ 4 : Load Menu from a file.
+ 5 : Get Price for certain Quantity of an item.
+ 6 : Update the Menu.
+ 7 : Exit.
+
+Enter your choice:3
+Printing the Menu......
+   1.      pizza                                   500
+   2.      grilled chicken                         500
+   3.      dumplings                               300
+   4.      hot dog                                 200
+   5.      butter chicken                          400
+   6.      cheese burger                           500
+   7.      shrimp sandwhich                        250
+   8.      egg roll                                200
+   9.      fried rice                              400
+  10.      pepsi                                   90
+  11.      fanta                                   90
+  12.      cocacola                                90
+  13.      water                                   50
+  14.      brownie                                 500
+  15.      ice cream                               500
+  16.      toffee                                  250
+  17.      waffle                                  300
+  18.      banana bread                            400
+
+
+------------------------------------------------------
+ 1 : Create a new Menu.
+ 2 : Store the Menu.
+ 3 : Print the Menu.
+ 4 : Load Menu from a file.
+ 5 : Get Price for certain Quantity of an item.
+ 6 : Update the Menu.
+ 7 : Exit.
+
+Enter your choice:4
+Enter the name of menu file.(Spaces are not allowed.)  : menu
+ 1 : Create a new Menu.
+ 2 : Store the Menu.
+ 3 : Print the Menu.
+ 4 : Load Menu from a file.
+ 5 : Get Price for certain Quantity of an item.
+ 6 : Update the Menu.
+ 7 : Exit.
+
+Enter your choice:3
+Printing the Menu......
+   1.      pizza                                   500
+   2.      grilled chicken                         500
+   3.      dumplings                               300
+   4.      hot dog                                 200
+   5.      butter chicken                          400
+   6.      cheese burger                           500
+   7.      shrimp sandwhich                        250
+   8.      egg roll                                200
+   9.      fried rice                              400
+  10.      pepsi                                   90
+  11.      fanta                                   90
+  12.      cocacola                                90
+  13.      water                                   50
+  14.      brownie                                 500
+  15.      ice cream                               500
+  16.      toffee                                  250
+  17.      waffle                                  300
+  18.      banana bread                            400
+   1.      pizza                                   500
+   2.      grilled chicken                         500
+   3.      dumplings                               300
+   4.      hot dog                                 200
+   5.      butter chicken                          400
+   6.      cheese burger                           500
+   7.      shrimp sandwhich                        250
+   8.      egg roll                                200
+   9.      fried rice                              400
+  10.      pepsi                                   90
+  11.      fanta                                   90
+  12.      cocacola                                90
+  13.      water                                   50
+  14.      brownie                                 500
+  15.      ice cream                               500
+  16.      toffee                                  250
+  17.      waffle                                  300
+  18.      banana bread                            400
+
+
+------------------------------------------------------
+ 1 : Create a new Menu.
+ 2 : Store the Menu.
+ 3 : Print the Menu.
+ 4 : Load Menu from a file.
+ 5 : Get Price for certain Quantity of an item.
+ 6 : Update the Menu.
+ 7 : Exit.
+
+Enter your choice:5
+Enter the item number and desired quantity.
+2 5
+Result = 2500
+ 1 : Create a new Menu.
+ 2 : Store the Menu.
+ 3 : Print the Menu.
+ 4 : Load Menu from a file.
+ 5 : Get Price for certain Quantity of an item.
+ 6 : Update the Menu.
+ 7 : Exit.
+
+Enter your choice:6
+Work in Progress...........
+
+ 1 : Create a new Menu.
+ 2 : Store the Menu.
+ 3 : Print the Menu.
+ 4 : Load Menu from a file.
+ 5 : Get Price for certain Quantity of an item.
+ 6 : Update the Menu.
+ 7 : Exit.
+
+Enter your choice:7
+
+
+Exiting..................
+
+Have a nice day!!
+
+--------------------------------
+Process exited after 65.26 seconds with return value 0
+Press any key to continue . . .

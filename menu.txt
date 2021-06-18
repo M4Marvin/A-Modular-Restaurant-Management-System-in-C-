@@ -1,0 +1,18 @@
+1:Main course:pizza :500
+2:Main course:grilled chicken :500
+3:Main course:dumplings:300
+4:main course:hot dog :200
+5:main course:butter chicken :400
+6:main course:cheese burger :500
+7:main course:shrimp sandwhich:250
+8:main course:egg roll:200
+9:main course:fried rice :400
+10:drink:pepsi:90
+11:drink:fanta :90
+12:drink:cocacola:90
+13:drink:water:50
+14:dessert:brownie :500
+15:dessert:ice cream :500
+16:dessert:toffee:250
+17:dessert:waffle:300
+18:dessert:banana bread :400
